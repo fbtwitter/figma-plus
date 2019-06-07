@@ -4,7 +4,7 @@
 	<img src="https://github.com/figma-plus/docs/blob/gh-pages/images/promo-xl.jpg?raw=true">
 </p>
 
-Figma Plus is an unofficial plugin platform for Figma.This is an open-source project that is **not** affiliated with the official Figma team.
+Figma Plus is an unofficial plugin platform for Figma. This is an open-source project that is **not** affiliated with the official Figma team.
 
 You can download Figma Plus from [figmaplus.com](https://figmaplus.com)
 
